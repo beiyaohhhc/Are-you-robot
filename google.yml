@@ -1,9 +1,0 @@
-</html>
-<script src="https://www.google.com/recaptcha/enterprise.js?render=6LdMF9AkAAAAAJPmTvQ6A-h80lAf95GymPb7hVub"></script>
-<script>
-grecaptcha.enterprise.ready(function() {
-    grecaptcha.enterprise.execute('6LdMF9AkAAAAAJPmTvQ6A-h80lAf95GymPb7hVub', {action: 'login'}).then(function(token) {
-       ...
-    });
-});
-</script>
